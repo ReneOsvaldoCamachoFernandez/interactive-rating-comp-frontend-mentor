@@ -12,4 +12,7 @@
   #__next {
     height: 100%;
   }
+  .gradient {
+    background: linear-gradient(#252d37, #1d2127);
+  }
 }
